@@ -1,5 +1,3 @@
-sage: libgap.LoadPackage("PackageManager")
-sage: libgap.InstallPackage("kbmag")
 
 
 <!---
